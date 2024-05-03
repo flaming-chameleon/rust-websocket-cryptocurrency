@@ -1,8 +1,5 @@
 [Youtube video](https://youtu.be/dfc-NNsf0Mc): https://youtu.be/dfc-NNsf0Mc
 
-Here's a README for your Rust project using Tokio-Tungstenite to connect to a WebSocket for real-time cryptocurrency data:
-
----
 
 # Rust WebSocket Crypto Ticker
 
