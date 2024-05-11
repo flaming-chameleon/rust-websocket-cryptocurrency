@@ -1,4 +1,5 @@
-[Youtube video](https://youtu.be/dfc-NNsf0Mc): https://youtu.be/dfc-NNsf0Mc
+
+[![Watch the video](https://img.youtube.com/vi/dfc-NNsf0Mc/maxresdefault.jpg)](https://youtu.be/dfc-NNsf0Mc)
 
 
 # Rust WebSocket Crypto Ticker
